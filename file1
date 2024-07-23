@@ -1,3 +1,6 @@
 hello this is file1
 git squash
+<<<<<<< HEAD
 changed file
+=======
+>>>>>>> 1e2d7e66c0439722384fd3e72f40b69fa24c6663
